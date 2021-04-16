@@ -1,9 +1,0 @@
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/bin/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.deps.json
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/bin/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.dll
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/bin/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.pdb
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.csprojAssemblyReference.cache
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.AssemblyInfoInputs.cache
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.AssemblyInfo.cs
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.csproj.CoreCompileInputs.cache
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.dll
-/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/Debug/netstandard2.1/GloboTicket.ManagementApp.Domain.pdb
