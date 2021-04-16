@@ -7,7 +7,7 @@ using GloboTicket.ManagementApp.Application.Contracts.Persistence;
 using GloboTicket.ManagementApp.Domain.Entities;
 using MediatR;
 
-namespace GloboTicket.ManagementApp.Application.Features.Events
+namespace GloboTicket.ManagementApp.Application.Features.Events.Queries.GetEventList
 {
     public class GetEventListQueryHandler : IRequestHandler<GetEventListQuery, List<EventListDto>>
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace GloboTicket.ManagementApp.Application.Features.Events
+namespace GloboTicket.ManagementApp.Application.Features.Events.Queries.GetEventDetail
 {
     public class CategoryDto
     {
