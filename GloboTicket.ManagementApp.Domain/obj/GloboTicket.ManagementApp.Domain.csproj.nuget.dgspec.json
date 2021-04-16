@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/GloboTicket.ManagementApp.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/GloboTicket.ManagementApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/GloboTicket.ManagementApp.Domain.csproj",
+        "projectName": "GloboTicket.ManagementApp.Domain",
+        "projectPath": "/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/GloboTicket.ManagementApp.Domain.csproj",
+        "packagesPath": "/Users/sunkanmi/.nuget/packages/",
+        "outputPath": "/Users/sunkanmi/Documents/Projects/Aspnet/GloboTicket.ManagementApp/GloboTicket.ManagementApp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sunkanmi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
